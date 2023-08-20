@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+/* custom fonts */
+@font-face {
+  font-family: Alexandria;
+  src: url('/public/fonts/Alexandria/Alexandria-Medium.ttf');
+  weight:500;
+}
