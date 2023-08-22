@@ -1,0 +1,18 @@
+{
+    "Welcome to React":"مرحبا",
+    "min":"الصغرى",
+    "max":"الكبرى",
+    "humidity":"الرطوبة",
+    "riyadh":"الرياض",
+    "clear sky":"سماء صافية",
+    "few clouds":"غائم جزئيا",
+    "scattered clouds":"السحب المتفرقة",
+    "broken clouds":"مُلبدة بالغيوم",
+    "shower rain":"نَوْبات مَطَر",
+    "rain":"مطر",
+    "thunderstorm":"عاصفة رعدية",
+    "snow":"ثلج",
+    "mist":"ضباب"
+
+
+}
